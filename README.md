@@ -10,4 +10,10 @@ My favorite vacation spot is **Bora Bora**, a stunning island paradise in the So
 2. Explore Local Cuisine: Indulge in the delicious local cuisine, from fresh seafood to exotic dishes, at the various restaurants and street vendors in the area.
 
 3. Scuba Diving: Dive into the crystal-clear waters to discover the vibrant marine life and stunning coral reefs beneath the surface.
-
+## Unordered list of dishes
+- Sashimi
+- Grilled Mahi-Mahi
+- Tahitian Vanilla Ice Cream
+- Coconut Bread
+- Tahitian Fruit Salad
+- Coconut Sorbet
