@@ -27,3 +27,12 @@ If you're looking for exciting sports to try, here are some recommendations alon
 | Hiking        | Enjoy nature and stay active                   | 3-5 hours      |
 | Swimming      | Full-body workout and stress relief            | 4-6 hours      |
 | Yoga          | Improve flexibility and mental well-being      | 2-4 hours      |
+-----------------------------------------------------------------------------------------------------
+
+## Pithy Quotes by Scientists
+> "The important thing is to not stop questioning. Curiosity has its own reason for existence." - *Albert Einstein*
+
+> "Science knows no country because knowledge belongs to humanity, and is the torch which illuminates the world." - *Louis Pasteur*
+
+> "The important thing is to not stop questioning. Curiosity has its own reason for existence." - *_Albert Einstein_*
+
