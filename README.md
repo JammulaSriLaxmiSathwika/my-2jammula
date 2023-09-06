@@ -18,3 +18,12 @@ My favorite vacation spot is **Bora Bora**, a stunning island paradise in the So
 - Tahitian Fruit Salad
 - Coconut Sorbet
 For more information about me,, check out [Mystats](MyStats.md).
+-------------------------------------------------------------------------------------------------------
+## Recommended Sports
+If you're looking for exciting sports to try, here are some recommendations along with reasons why you should give them a shot and how much time you might spend on them each week.
+| Sport         | Reason to Try                                  | Hours per Week |
+|---------------|------------------------------------------------|----------------|
+| Tennis        | Great for cardiovascular health and agility   | 5-7 hours      |
+| Hiking        | Enjoy nature and stay active                   | 3-5 hours      |
+| Swimming      | Full-body workout and stress relief            | 4-6 hours      |
+| Yoga          | Improve flexibility and mental well-being      | 2-4 hours      |
