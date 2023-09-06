@@ -17,3 +17,4 @@ My favorite vacation spot is **Bora Bora**, a stunning island paradise in the So
 - Coconut Bread
 - Tahitian Fruit Salad
 - Coconut Sorbet
+For more information about me,, check out [Mystats](MyStats.md).
